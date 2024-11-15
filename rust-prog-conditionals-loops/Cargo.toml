@@ -1,0 +1,6 @@
+[package]
+name = "rust-prog-conditionals-loops"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
